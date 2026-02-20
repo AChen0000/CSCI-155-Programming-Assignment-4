@@ -11,7 +11,6 @@ The program stops when the user types "end".
 import java.util.Scanner;
 
 public class LargestNumberCount {
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
